@@ -8,6 +8,8 @@
 //  http://opensource.org/licenses/mit-license.php
 //
 
+import Foundation
+
 extension String{
     func toDouble() -> Double?{
         if let num = NSNumberFormatter().numberFromString(self){
