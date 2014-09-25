@@ -1,0 +1,4 @@
+=toNumber=
+
+This is very simple.
+This is adding toDouble and toFloat method for String.
